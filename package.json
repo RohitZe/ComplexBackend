@@ -1,0 +1,15 @@
+{
+  "name": "complexbackend",
+  "version": "1.0.0",
+  "description": "everything about backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "javascript"
+  ],
+  "author": "RohitSharma",
+  "license": "ISC"
+}
