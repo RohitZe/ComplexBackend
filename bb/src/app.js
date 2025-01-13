@@ -43,10 +43,10 @@ app.use(express.static("public"))
 app.use(cookieParser())
 
 
-app.get("/rohit", (req, res, next) => {
+app.get("/", (req, res, next) => {
     return res.json({
       code: 200,
-      message: "Server is up"
+      message: "Server is Up"
     })
   })
 
